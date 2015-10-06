@@ -1,8 +1,8 @@
 
 # react-native-scroller
 
-Four-way scrolling ScrollView for react-native.
+Four-way scrolling Scroller View for react-native.
 
-I built this primarily for use on android devices where it only allows horizontal or vertical scrolling at one time, see [discussing here](https://github.com/facebook/react-native/issues/2962)
+Primarily built for Android devices for that currently it only allows scrolling horizontally or vertically at one time, see [discussing here](https://github.com/facebook/react-native/issues/2962) for details.
 
 See `JxScrollerView.js` for example.
